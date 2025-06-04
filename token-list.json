@@ -1,0 +1,15 @@
+{
+  "name": "Ballerina Pinguina Token List",
+  "logoURI": "https://raw.githubusercontent.com/BallerinaPenguina/ballerina-pinguina-assets/main/ballerina_pinguina_token_logo.png",
+  "keywords": ["ballerina", "penguin", "fun"],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x29059Ff9a3b05A4847267a6B04Fa924Db57D4437",
+      "symbol": "BPG",
+      "name": "Ballerina Pinguina",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BallerinaPenguina/ballerina-pinguina-assets/main/ballerina_pinguina_token_logo.png"
+    }
+  ]
+}
